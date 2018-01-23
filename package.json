@@ -1,0 +1,17 @@
+{
+  "name": "repetition",
+  "version": "0.0.1",
+  "description": "a small lecture exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "address": "^1.0.3",
+    "chalk": "^2.3.0",
+    "express": "^4.16.2",
+    "lodash": "^4.17.4"
+  }
+}
